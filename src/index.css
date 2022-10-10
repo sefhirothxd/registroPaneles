@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.css-78c6dr-MuiToolbar-root-MuiTablePagination-toolbar {
+  color: white;
+}
+
+.css-i4bv87-MuiSvgIcon-root {
+  color: white;
+}
